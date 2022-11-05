@@ -12,3 +12,10 @@ chapter page
 ->on clickin the course , it will redirect to the notes page of the chapter
 notes page
 ->in this page students can add their notes to prepare later
+
+***Software Components***
+ - Activity
+ - Fragments
+ - Content Providers
+ - Broadcast Receivers
+ - Service
